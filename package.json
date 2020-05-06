@@ -1,0 +1,21 @@
+{
+  "name": "feena-cli",
+  "version": "1.0.0",
+  "description": "feena-cli",
+  "bin": {
+    "feenaCli": "index.js"
+  },
+  "main": "index.js",
+  "repository": "feena-cli",
+  "author": "feena",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.1.0",
+    "log-symbols": "^4.0.0",
+    "ora": "^4.0.4"
+  }
+}
